@@ -1,0 +1,31 @@
+<component name="libraryTable">
+  <library name="commons-codec-1.15">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/lib/commons-codec-1.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/commons-collections4-4.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/commons-compress-1.20.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/curvesapi-1.06.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/poi-examples-5.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/poi-excelant-5.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/poi-integration-5.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/SparseBitSet-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/xmlbeans-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../logkit-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../log4j-1.2.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../avalon-framework-4.1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../commons-logging-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../dom4j-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../geronimo-stax-api_1.0_spec-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../poi-ooxml-3.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../poi-3.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../poi-ooxml-schemas-3.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../servlet-api-2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../stax-api-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../xml-apis-1.0.b2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../xmlbeans-2.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../DoAn_QuanLyBanDongHo/src/libs/mysql-connector-java-5.1.48-bin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
